@@ -1,6 +1,16 @@
+# Welcome to Amit kumar profile! 
+
 # 💫 About Me:
  I'm a full-stack software engineer with a passion for React, Next.js, and RESTful API integration, dedicated to building responsive, accessible user interfaces. Recently, I developed the website for Bright Digital Gold Pvt Ltd, where I coded key pages and optimized performance, increasing user satisfaction by 40% and engagement by 20%.
 
+# Talking about Personal Stuff:
+👨‍🎓 I'm a Software Engineering Student
+🔭 I’m currently working on Next js platform
+💬 Ask me about anything, I am happy to help
+🌱 I'm currently learning:
+  Tools and technologies from React ecosystem and MERN.
+👯 Join my community if you're a tech enthusiast
+📬 How to reach me: notgetin18@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/notgetin18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Amitsin40190332) 
