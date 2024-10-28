@@ -15,7 +15,7 @@
 
 📬 How to reach me: notgetin18@gmail.com
 
-📝 Resume https://drive.google.com/file/d/1yy8c0Y-PhP1TfLaVMnbRx2p35XdZRM0z/view?usp=drive_link
+📝 Resume [https://drive.google.com/file/d/1yy8c0Y-PhP1TfLaVMnbRx2p35XdZRM0z/view?usp=drive_link](https://drive.google.com/file/d/1yy8c0Y-PhP1TfLaVMnbRx2p35XdZRM0z/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/notgetin18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Amitsin40190332) 
