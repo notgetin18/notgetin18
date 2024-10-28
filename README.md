@@ -5,11 +5,14 @@
 
 # Talking about Personal Stuff:
 👨‍🎓 I'm a Software Engineering Student
+
 🔭 I’m currently working on Next js platform
+
 💬 Ask me about anything, I am happy to help
+
 🌱 I'm currently learning:
   Tools and technologies from React ecosystem and MERN.
-👯 Join my community if you're a tech enthusiast
+
 📬 How to reach me: notgetin18@gmail.com
 
 ## 🌐 Socials:
