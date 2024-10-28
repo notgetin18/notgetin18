@@ -1,10 +1,10 @@
-# Welcome to Amit kumar profile! 
+# Welcome to Amit kumar profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 # 💫 About Me:
  I'm a full-stack software engineer with a passion for React, Next.js, and RESTful API integration, dedicated to building responsive, accessible user interfaces. Recently, I developed the website for Bright Digital Gold Pvt Ltd, where I coded key pages and optimized performance, increasing user satisfaction by 40% and engagement by 20%.
 
 # Talking about Personal Stuff:
-👨‍🎓 I'm a Software Engineering Student
+👨‍🎓 I'm a **Software Engineering Student
 
 🔭 I’m currently working on Next js platform
 
@@ -35,5 +35,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=notgetin18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
