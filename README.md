@@ -20,7 +20,7 @@
 
 📬 How to reach me: notgetin18@gmail.com
 
-📝 Resume [https://drive.google.com/file/d/1yy8c0Y-PhP1TfLaVMnbRx2p35XdZRM0z/view?usp=drive_link](https://drive.google.com/file/d/1yy8c0Y-PhP1TfLaVMnbRx2p35XdZRM0z/view?usp=drive_link)
+📝 Resume https://drive.google.com/file/d/1yQjF2PaFb6Bitc9SHW09t7UMX107kufn/view?usp=sharing
 
 🌍 **Location:** New Delhi, India  
 💼 **Current Role:** Software Developer at **Bright Digital Gold Pvt Ltd**  
