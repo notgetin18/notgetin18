@@ -1,4 +1,4 @@
-# Welcome to Amit kumar profile! (https://www.amitdevjourney.xyz/)/](https://www.amitdevjourney.xyz/)"<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Amit kumar profile! (https://www.amitdevjourney.xyz/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 # 💫 About Me:
  I'm a full-stack software engineer with a passion for React, Next.js, and RESTful API integration, dedicated to building responsive, accessible user interfaces. Recently, I developed the website for Bright Digital Gold Pvt Ltd, where I coded key pages and optimized performance, increasing user satisfaction by 40% and engagement by 20%.
